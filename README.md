@@ -197,8 +197,7 @@ For further continuation, consider these next steps:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow.svg)](https://www.buymeacoffee.com/mahmoodsalah)
 
 
-[![GitHub stars](https://img.shields.io/github/stars/Mahmoodsalah/Tutorial-Generative-AI-with-Python-and-TensorFlow-2?style=social)](https://github.com/MahmoodsalahTutorial-Generative-AI-with-Python-and-TensorFlow-2)
-
+[![GitHub stars](https://img.shields.io/github/stars/Mahmoodsalah/Tutorial-Generative-AI-with-Python-and-TensorFlow-2?style=social)](https://github.com/Mahmoodsalah/Tutorial-Generative-AI-with-Python-and-TensorFlow-2/stargazers)
 
 --------
 
