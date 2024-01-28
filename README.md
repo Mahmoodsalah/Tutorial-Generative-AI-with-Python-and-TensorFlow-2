@@ -190,3 +190,16 @@ For further continuation, consider these next steps:
    - Provide datasets and detailed instructions for hands-on experience.
 
 *(Feel free to let me know if you would like to proceed with any of these suggested topics!, but don't miss Star this Repo to encourage me continue)*
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow.svg)](https://www.buymeacoffee.com/mahmoodsalah)
+
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepository?style=social)](https://github.com/MahmoodsalahTutorial-Generative-AI-with-Python-and-TensorFlow-2)
+
+--------
+
+## Author: [@Mahmood Salah ](https://www.github.com/mahmoodsalah)
+
+
